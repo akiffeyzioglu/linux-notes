@@ -26,3 +26,11 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `history -c:` Tüm terminal komut geçmişini siler.
 
 `sudo apt-get update/upgrade:` Güncelleme yapmak için kullanılır. 
+
+`sudo rm -rf file:` Herhangi bir dosyayı silmek için kullanılır.
+
+`touch file-name:` Dosya oluşturmak için kullanılır. 
+
+`cd directiroy-name:` Dizin değiştirmek için kullanılır. 
+
+`mkdir directory:` Klasör oluşturmak için kulllanılır.   
