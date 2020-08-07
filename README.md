@@ -25,6 +25,8 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 
 `history -c:` Tüm terminal komut geçmişini siler.
 
+[`cat /dev/null > ~/.bash_history && history -c && exit:`](https://belge.pardus.org.tr/pages/viewpage.action?pageId=10028408 "Uçbirim Geçmişini Silmek") "history -c" komutunu kullandığınız zaman terminal geçmişini siler fakat terminali kapatıp açtığınızda geçmiş geri gelir. Bu komut ile tüm geçmiş silinir. 
+
 `sudo apt-get update/upgrade:` Güncelleme yapmak için kullanılır. 
 
 `sudo rm -rf file:` Herhangi bir dosyayı silmek için kullanılır.
