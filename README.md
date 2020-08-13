@@ -35,4 +35,6 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 
 `cd directiroy-name:` Dizin değiştirmek için kullanılır. 
 
-`mkdir directory-name:` Klasör oluşturmak için kulllanılır.   
+`mkdir directory-name:` Klasör oluşturmak için kulllanılır. 
+
+`neofetch:` İşletim sistemi bilgilerini verir.
