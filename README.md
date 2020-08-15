@@ -38,3 +38,5 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `mkdir directory-name:` Klasör oluşturmak için kulllanılır. 
 
 `neofetch:` İşletim sistemi bilgilerini verir.
+
+`apt-list:` Yüklü paketleri listeler. Kernel hariç. 
