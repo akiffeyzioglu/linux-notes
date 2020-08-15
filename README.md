@@ -2,6 +2,8 @@
 
 Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.03 ve masaüstü GNOME kullanılmaktadır.
 
+* | işareti AltGr + - (orta çizgi) ile yapılır. 
+
 #
 `lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
 
@@ -40,3 +42,4 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `neofetch:` İşletim sistemi bilgilerini verir.
 
 `apt-list:` Yüklü paketleri listeler. Kernel hariç. 
+
