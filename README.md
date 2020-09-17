@@ -48,3 +48,5 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `free -mh:` Sistemde bulunan belleğin kullanım oranını görüntüler. 
 
 `printenv:` Ortam değişkenlerini gösterir.
+
+`echo $TERM:` "TERM" ortam değişkenini gösterir. 
