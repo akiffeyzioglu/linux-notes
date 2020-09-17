@@ -43,3 +43,4 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 
 `apt-list:` Yüklü paketleri listeler. Kernel hariç. 
 
+`free -mh:` Sistemde bulunan belleğin kullanım oranını görüntüler. 
