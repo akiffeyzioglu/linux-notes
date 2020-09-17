@@ -52,3 +52,5 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `echo $TERM:` "TERM" ortam değişkenini gösterir.
 
 `echo deneme="test":` Ortam değişkeni oluşturur.
+
+`df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
