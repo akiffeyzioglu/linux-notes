@@ -49,4 +49,6 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 
 `printenv:` Ortam değişkenlerini gösterir.
 
-`echo $TERM:` "TERM" ortam değişkenini gösterir. 
+`echo $TERM:` "TERM" ortam değişkenini gösterir.
+
+`echo deneme="test":` Ortam değişkeni oluşturur.
