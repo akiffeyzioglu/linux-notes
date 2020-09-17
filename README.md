@@ -7,6 +7,8 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 #
 `lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
 
+`lsblk:` Sistemdeki diskleri listeler. 
+
 `sudo mysql -u root -p:` MySQL'e geçiş yapar.
 
 `sudo dpkg -i example.deb:` Pardus debian tabanlı olduğu için debian uzantılı kurulum dosyaları bu komut ile kurulur.
