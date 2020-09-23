@@ -54,3 +54,5 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `echo deneme="test":` Ortam değişkeni oluşturur.
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
+
+`dd:` Dosyaları dönüştürmek ve görüntülemek için kullanılır.
