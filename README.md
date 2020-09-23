@@ -56,3 +56,5 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
 
 `dd:` Dosyaları dönüştürmek ve görüntülemek için kullanılır.
+
+`httpstat:` Sitenin performans durmunu görüntüler. 
