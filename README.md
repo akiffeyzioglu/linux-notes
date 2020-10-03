@@ -2,12 +2,16 @@
 
 Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.03 ve masaüstü GNOME kullanılmaktadır.
 
-* | işareti AltGr + - (orta çizgi) ile yapılır. 
-## Medium Yazılarım
+* | işareti AltGr + - (orta çizgi) ile yapılır.
+
+* & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
+
+# Medium Yazılarım
 
 * [Basit Terminal İşlemleri #1](https://medium.com/software-development-turkey/basit-terminal-i%CC%87%C5%9Flemleri-1-b959a88074c9 "Basit Terminal İşlemleri")
 
-#
+# Komutlar
+
 `lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
 
 `lsblk:` Sistemdeki diskleri listeler. 
