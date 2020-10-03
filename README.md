@@ -4,6 +4,8 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 
 * | işareti AltGr + - (orta çizgi) ile yapılır. İlk komutun çıktısını ikinci komutun girdisi olarak çalıştırır.
 
+* ; bir komut içerisinde birden çok komut yazmamızı sağlar. 
+
 * & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
 
 ## Medium Yazılarım
