@@ -6,11 +6,11 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 
 * & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
 
-# Medium Yazılarım
+## Medium Yazılarım
 
 * [Basit Terminal İşlemleri #1](https://medium.com/software-development-turkey/basit-terminal-i%CC%87%C5%9Flemleri-1-b959a88074c9 "Basit Terminal İşlemleri")
 
-# Komutlar
+## Komutlar
 
 `lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
 
