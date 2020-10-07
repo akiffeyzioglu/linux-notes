@@ -7,6 +7,17 @@ Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. 
 * ; bir komut içerisinde birden çok komut yazmamızı sağlar. 
 
 * & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
+## tar Dosyası Kurulum Adımları
+
+* İndirilen dosya untar yapılmalıdır. `sudo tar xzvf "file-name"`. Eğer komut ile yapılmayacaksa sağ tık ile buraya çıkar denilebilir.
+
+* İndirilen dizine terminalde geçiş yapıldıktan sonra `./configure` yazılır ve işlemin bitmesi beklenir.
+
+* `make` komutu çalıştırılır.
+
+* `sudo make install` çalıştırılır.
+
+* Kurulum adımları tamamlandıktan sonra uygulamanın version kontrolü gerçekleştirilir. 
 
 ## Medium Yazılarım
 
