@@ -13,7 +13,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * İndirilen dosya untar yapılmalıdır. `sudo tar xzvf "file-name"`. Eğer komut ile yapılmayacaksa sağ tık ile buraya çıkar denilebilir.
 
-* İndirilen dizine terminalde geçiş yapıldıktan sonra `./configure` yazılır ve işlemin bitmesi beklenir. (Bu komutta hata alıyorsanız muhtemelen C Compiler kurulu değildir. Kurmak için: "sudo apt install build-essential" ardından "sudo apt-get install manpages-dev". Ardından işlemlere devam edebilirsiniz.)
+* İndirilen dizine terminalde geçiş yapıldıktan sonra `./configure` yazılır ve işlemin bitmesi beklenir. (Bu komutta hata alıyorsanız muhtemelen C Compiler kurulu değildir. Kurmak için: "sudo apt install build-essential" ardından "sudo apt-get install manpages-dev". Kurulumlar tamamlandıktan sonra işlemlere devam edebilirsiniz.)
 
 * `make` komutu çalıştırılır.
 
