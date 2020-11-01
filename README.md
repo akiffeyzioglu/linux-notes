@@ -25,6 +25,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Basit Terminal İşlemleri #1](https://medium.com/software-development-turkey/basit-terminal-i%CC%87%C5%9Flemleri-1-b959a88074c9 "Basit Terminal İşlemleri")
 
+* [Linux Dosya Sistemi Hiyerarşisi](https://medium.com/@akiffeyzioglu/linux-dosya-sistemi-hiyera%C5%9Fisi-115bd9bb607d "Linux Dosya Sistemi Hiyerarşisi")
 ## Komutlar
 
 `lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
