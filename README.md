@@ -80,4 +80,4 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 `dd:` Dosyaları dönüştürmek ve görüntülemek için kullanılır.
 
-`httpstat:` Sitenin performans durmunu görüntüler. 
+`httpstat:` Sitenin performans durumunu görüntüler. 
