@@ -81,3 +81,5 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 `dd:` Dosyaları dönüştürmek ve görüntülemek için kullanılır.
 
 `httpstat:` Sitenin performans durumunu görüntüler. 
+
+`htop:` İşlemci kullanım oranlarını, ram kullanımı, arka planda çalışan servisleri ve tükettikleri kaynakları yüzdelik dilimler ile görmenizi sağlar. Komutu yazınca hata alıyorsanız paket kurulu değildir. "sudo apt install htop" ile paketi kurmanız gereklidir.
