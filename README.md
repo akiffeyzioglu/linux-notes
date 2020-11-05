@@ -35,6 +35,8 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Explain Shell](https://explainshell.com/ "Explain Shell")
 
+* [Linux Teknik](https://www.linuxteknik.com/ "Linux Teknik")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
