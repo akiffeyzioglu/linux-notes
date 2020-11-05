@@ -35,7 +35,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Explain Shell](https://explainshell.com/ "Explain Shell")
 
-* [Linux Teknik](https://www.linuxteknik.com/ "Linux Teknik")
+* [Linux Teknik Bilgi Arşivleri](https://www.linuxteknik.com/ "Linux Teknik Bilgi Arşivleri")
 
 ## Komutlar
 
