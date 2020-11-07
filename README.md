@@ -37,6 +37,8 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Linux Teknik Bilgi Arşivleri](https://www.linuxteknik.com/ "Linux Teknik Bilgi Arşivleri")
 
+* [nixCraft](https://www.cyberciti.biz "nixCraft")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
