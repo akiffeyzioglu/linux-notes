@@ -6,6 +6,10 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * | işareti AltGr + - (orta çizgi) ile yapılır. İlk komutun çıktısını ikinci komutun girdisi olarak çalıştırır.
 
+* && - İlk yazılan komut çalıştırılır. Hata vermezse 2. komut çalıştırılır. Hata verirse 2. komut çalıştırılmaz. 
+
+* || - İlk yazılan komut çalıştırılır. Hata vermezse 2. komut çalıştırılmaz. Hata verirse 2. komut çalıştırılır.  
+
 * ; bir komut içerisinde birden çok komut yazmamızı sağlar. 
 
 * & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
