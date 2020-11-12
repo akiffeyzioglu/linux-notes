@@ -49,6 +49,22 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Linux Command Library](https://linuxcommandlibrary.com/ "Linux Command Library")
 
+* [Linux Dersleri](https://linux-dersleri.github.io/ "Linux Dersleri") 
+
+* [Linuxize](https://linuxize.com/ "Linuxize")
+
+* [Tecmint](https://tecmint.com)
+
+* [How To Geek](https://www.howtogeek.com/ "How To Geek")
+
+* [OS Technix](https://ostechnix.com/ "OS TechNix")
+
+* [The Geek Stuff](https://www.thegeekstuff.com/ "The Geek Stuff")
+
+* [Computer Networking Notes](https://www.computernetworkingnotes.com/ "Computer Networking Notes")
+
+* [Computer Hope](https://www.computerhope.com/ "Computer Hope")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
