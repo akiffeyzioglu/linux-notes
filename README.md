@@ -45,6 +45,8 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [OpenServer Docs](https://osr507doc.xinuos.com/en/Navpages/index.html "OpenServer Docs")
 
+* [Linux](https://linux.com "Linux")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
