@@ -1,6 +1,6 @@
 ## Linux Notlarım
 
-Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.03 ve masaüstü GNOME kullanılmaktadır. 
+Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.04 ve masaüstü GNOME kullanılmaktadır. 
 
 Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hatanın önüne geçilebilmektedir. 
 
