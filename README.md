@@ -107,7 +107,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 `neofetch:` İşletim sistemi bilgilerini verir.
 
-`apt-list:` Yüklü paketleri listeler. Kernel hariç. 
+`apt list:` Yüklü paketleri listeler. Kernel hariç. 
 
 `free -mh:` Sistemde bulunan belleğin kullanım oranını görüntüler. 
 
