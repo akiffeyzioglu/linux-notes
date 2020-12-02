@@ -126,3 +126,5 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 `htop:` İşlemci kullanım oranlarını, ram kullanımı, arka planda çalışan servisleri ve tükettikleri kaynakları yüzdelik dilimler ile görmenizi sağlar. Komutu yazınca hata alıyorsanız paket kurulu değildir. "sudo apt install htop" ile paketi kurmanız gereklidir.
 
 `cat /sys/class/thermal/thermal_zone0/temp:` İşlemcinin anlık ısı değerlerini verir. 
+
+`apt install -f:` Kurulacak olan paketin bağımlılık paketlerini kurar.
