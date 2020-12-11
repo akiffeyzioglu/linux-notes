@@ -65,6 +65,10 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Computer Hope](https://www.computerhope.com/ "Computer Hope")
 
+* [Linode Docs](https://www.linode.com/docs "Linode Docs")
+
+* [msHOWTO](https://www.mshowto.org/ "msHOWTO")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
