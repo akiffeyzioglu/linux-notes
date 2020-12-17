@@ -69,6 +69,12 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [msHOWTO](https://www.mshowto.org/ "msHOWTO")
 
+* [Linux Journey](https://linuxjourney.com/ "Linux Journey")
+
+* [OverTheWire](https://overthewire.org/wargames/bandit/bandit0.html "OverTheWire")
+
+* [Linux Survival](https://linuxsurvival.com/ "Linux Survival")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
