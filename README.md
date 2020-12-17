@@ -75,6 +75,8 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Linux Survival](https://linuxsurvival.com/ "Linux Survival")
 
+* [Açık Kaynak Fikirler](https://acikkaynakfikirler.com/egitimler/ "Açık Kaynak Fikirler")
+
 ## Komutlar
 
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
