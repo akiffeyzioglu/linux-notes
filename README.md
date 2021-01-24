@@ -83,6 +83,16 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 ## Komutlar
 
+`sudo su:` Root kullanıcısına geçiş yapar. 
+
+`ps:` Sistemde çalışan işlemleri listeler.
+
+`!100:` history ile ulaştılan komut geçmişinde 100. sırada bulunan komutu tekrar çalıştırır. Uzun ve sürekli tekrar edilen komutlar için kullanılabilir. 
+
+`ls -la:` Çalıştırılan dizinde bulunan tüm gizli ve normal dizinleri kullanıcı grupları ve izinleri birlikte ekrana yazdırır.
+
+`passwd:` Giriş yapılan kullanıcın root parolasını değiştirir. 
+
 `man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
 
 `lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
