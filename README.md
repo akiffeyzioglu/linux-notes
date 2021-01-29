@@ -1,6 +1,8 @@
-## Linux Notlarım
+## GNU/Linux Notlarım
 
-Bu repository Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.04 ve masaüstü GNOME kullanılmaktadır. 
+Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.04 ve masaüstü GNOME kullanılmaktadır. 
+
+Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmiştir. 
 
 Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hatanın önüne geçilebilmektedir. 
 
