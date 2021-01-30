@@ -148,7 +148,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 `sudo apt-get update/upgrade:` Güncelleme yapmak için kullanılır. 
 
-`sudo nano/etc/apt/source.list:` "sudo apt-get update" komutunda güncellenecek paket listesi verir.
+`sudo nano/etc/apt/source.list:` "sudo apt-get update" komutunda güncellenecek paket listesini verir.
 
 ## Bilgi Alma İşlemleri
 
@@ -178,7 +178,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 `sudo service service_name stop:` Herhangi bir servisi durdurmak için kullanılır.
 
-`sudo service service_name status:` Herhangi bir servisin durumunu görmek içn kullanılır.
+`sudo service service_name status:` Herhangi bir servisin durumunu görmek için kullanılır.
 
 `sudo mysql -u root -p:` MySQL'e geçiş yapar.
 
