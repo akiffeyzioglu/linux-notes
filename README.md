@@ -6,6 +6,32 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hatanın önüne geçilebilmektedir. 
 
+# İçerik Tablosu
+
+* [Faydalı Bilgiler](#Faydalı-Bilgiler)
+
+* [tar Arşivi Kurulum Adımları](#tar-Arşivi-Kurulum-Adımları)
+
+* [Medium Yazılarım](#Medium-Yazılarım)
+
+* [Faydalı Siteler](#Faydalı-Siteler)
+
+* [Komutlar](#Komutlar)
+   
+    * [Dizin İşlemleri](#Dizin-İşlemleri)
+
+    * [Disk ve Bellek İşlemleri](#Disk-ve-Bellek-İşlemleri)
+
+    * [Paket Yönetimi İşlemleri](#Paket-Yönetimi-İşlemleri)
+
+    * [Bilgi Alma İşlemleri](#Bilgi-Alma-İşlemleri)
+
+    * [Servis İşlemleri](#Servis-İşlemleri)
+
+    * [Kullanıcı İşlemleri](#Kullanıcı-İşlemleri)
+
+## Faydalı Bilgiler
+
 * | işareti AltGr + - (orta çizgi) ile yapılır. İlk komutun çıktısını ikinci komutun girdisi olarak çalıştırır.
 
 * && - İlk yazılan komut çalıştırılır. Hata vermezse 2. komut çalıştırılır. Hata verirse 2. komut çalıştırılmaz. 
@@ -15,6 +41,7 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 * ; bir komut içerisinde birden çok komut yazmamızı sağlar. 
 
 * & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
+
 ## tar Arşivi Kurulum Adımları
 
 * İndirilen dosya untar yapılmalıdır. `sudo tar xzvf "file-name"`. Eğer komut ile yapılmayacaksa sağ tık ile buraya çıkar denilebilir.
@@ -83,49 +110,11 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 * [Linux Hint](https://linuxhint.com/ "Linux Hint")
 
-## Komutlar
+# Komutlar
 
-`sudo su:` Root kullanıcısına geçiş yapar. 
-
-`ps:` Sistemde çalışan işlemleri listeler.
-
-`!100:` history ile ulaştılan komut geçmişinde 100. sırada bulunan komutu tekrar çalıştırır. Uzun ve sürekli tekrar edilen komutlar için kullanılabilir. 
+## Dizin İşlemleri
 
 `ls -la:` Çalıştırılan dizinde bulunan tüm gizli ve normal dizinleri kullanıcı grupları ve izinleri birlikte ekrana yazdırır.
-
-`passwd:` Giriş yapılan kullanıcın root parolasını değiştirir. 
-
-`man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
-
-`lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
-
-`lsblk:` Sistemdeki diskleri listeler. 
-
-`sudo mysql -u root -p:` MySQL'e geçiş yapar.
-
-`sudo dpkg -i example.deb:` Pardus debian tabanlı olduğu için debian uzantılı kurulum dosyaları bu komut ile kurulur.
-
-`sudo apt-get autoremove:` Uygulamalar kaldırıldıktan sonra sistemde yapılandırma dosyaları kalmış olabilir. Bu komut ile kullanılmayan dosyalar kaldırılır.
-
-`sudo apt-get remove program_name:` Uygulama kaldırmak için kullanılır. 
-
-`sudo service service_name start:` Herhangi bir servisi başlatmak için kullanılır. 
-
-`sudo service service_name stop:` Herhangi bir servisi durdurmak için kullanılır.
-
-`sudo service service_name status:` Herhangi bir servisin durumunu görmek içn kullanılır.
-
-`sudo nano/etc/apt/source.list:` "sudo apt-get update" komutunda güncellenecek paket listesi verir.
-
-`history:` Terminal geçmişini verir. 
-
-`history -c:` Tüm terminal komut geçmişini siler.
-
-[`cat /dev/null > ~/.bash_history && history -c && exit:`](https://belge.pardus.org.tr/pages/viewpage.action?pageId=10028408 "Uçbirim Geçmişini Silmek") "history -c" komutunu kullandığınız zaman terminal geçmişini siler fakat terminali kapatıp açtığınızda geçmiş geri gelir. Bu komut ile tüm geçmiş silinir. 
-
-`sudo apt-get update/upgrade:` Güncelleme yapmak için kullanılır. 
-
-`sudo rm -rf file:` Herhangi bir dosyayı silmek için kullanılır.
 
 `touch file-name:` Dosya oluşturmak için kullanılır. 
 
@@ -133,26 +122,76 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 
 `mkdir directory-name:` Klasör oluşturmak için kulllanılır. 
 
-`neofetch:` İşletim sistemi bilgilerini verir.
+`dd:` Dosyaları dönüştürmek ve görüntülemek için kullanılır.
 
-`apt list:` Yüklü paketleri listeler. Kernel hariç. 
+`sudo rm -rf file:` Herhangi bir dosyayı silmek için kullanılır.
 
-`free -mh:` Sistemde bulunan belleğin kullanım oranını görüntüler. 
-
-`printenv:` Ortam değişkenlerini gösterir.
-
-`echo $TERM:` "TERM" ortam değişkenini gösterir.
-
-`echo deneme="test":` Ortam değişkeni oluşturur.
+## Disk ve Bellek İşlemleri
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
 
-`dd:` Dosyaları dönüştürmek ve görüntülemek için kullanılır.
+`free -mh:` Sistemde bulunan belleğin kullanım oranını görüntüler. 
 
-`httpstat:` Sitenin performans durumunu görüntüler. 
+`lsblk:` Sistemdeki diskleri listeler. 
+
+## Paket Yönetimi İşlemleri 
+
+`apt install -f:` Kurulacak olan paketin bağımlılık paketlerini kurar.
+
+`sudo dpkg -i example.deb:` Pardus debian tabanlı olduğu için debian uzantılı kurulum dosyaları bu komut ile kurulur.
+
+`sudo apt-get autoremove:` Uygulamalar kaldırıldıktan sonra sistemde yapılandırma dosyaları kalmış olabilir. Bu komut ile kullanılmayan dosyalar kaldırılır.
+
+`sudo apt-get remove program_name:` Uygulama kaldırmak için kullanılır. 
+
+`apt list:` Yüklü paketleri listeler. Kernel hariç. 
+
+`sudo apt-get update/upgrade:` Güncelleme yapmak için kullanılır. 
+
+`sudo nano/etc/apt/source.list:` "sudo apt-get update" komutunda güncellenecek paket listesi verir.
+
+## Bilgi Alma İşlemleri
 
 `htop:` İşlemci kullanım oranlarını, ram kullanımı, arka planda çalışan servisleri ve tükettikleri kaynakları yüzdelik dilimler ile görmenizi sağlar. Komutu yazınca hata alıyorsanız paket kurulu değildir. "sudo apt install htop" ile paketi kurmanız gereklidir.
 
 `cat /sys/class/thermal/thermal_zone0/temp:` İşlemcinin anlık ısı değerlerini verir. 
 
-`apt install -f:` Kurulacak olan paketin bağımlılık paketlerini kurar.
+`ps:` Sistemde çalışan işlemleri listeler.
+
+`man "command-name":` Herhangi bir komutun nasıl kullandıldığını direkt terminal üzerinden bu komut ile bakabiliyoruz. 
+
+`neofetch:` İşletim sistemi bilgilerini verir.
+
+`httpstat:` Sitenin performans durumunu görüntüler. 
+
+`printenv:` Ortam değişkenlerini gösterir.
+
+`lsb_release -a:` Kullanılan işletim sistemi sürümünü verir.
+
+`echo $TERM:` "TERM" ortam değişkenini gösterir.
+
+`echo deneme="test":` Ortam değişkeni oluşturur.
+
+## Servis İşlemleri
+
+`sudo service service_name start:` Herhangi bir servisi başlatmak için kullanılır. 
+
+`sudo service service_name stop:` Herhangi bir servisi durdurmak için kullanılır.
+
+`sudo service service_name status:` Herhangi bir servisin durumunu görmek içn kullanılır.
+
+`sudo mysql -u root -p:` MySQL'e geçiş yapar.
+
+## Kullanıcı İşlemleri
+
+`sudo su:` Root kullanıcısına geçiş yapar. 
+
+`!100:` history ile ulaştılan komut geçmişinde 100. sırada bulunan komutu tekrar çalıştırır. Uzun ve sürekli tekrar edilen komutlar için kullanılabilir. 
+
+`history:` Terminal geçmişini verir. 
+
+`history -c:` Tüm terminal komut geçmişini siler.
+
+[`cat /dev/null > ~/.bash_history && history -c && exit:`](https://belge.pardus.org.tr/pages/viewpage.action?pageId=10028408 "Uçbirim Geçmişini Silmek") "history -c" komutunu kullandığınız zaman terminal geçmişini siler fakat terminali kapatıp açtığınızda geçmiş geri gelir. Bu komut ile tüm geçmiş silinir. 
+
+`passwd:` Giriş yapılan kullanıcın root parolasını değiştirir. 
