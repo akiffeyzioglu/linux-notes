@@ -2,9 +2,7 @@
 
 Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermektedir. İşletim sistemi Pardus 19.04 ve masaüstü GNOME kullanılmaktadır. 
 
-Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmiştir. 
-
-Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hatanın önüne geçilebilmektedir. 
+Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmiştir.  
 
 # İçerik Tablosu
 
@@ -41,6 +39,8 @@ Not: Sistem dili İngilizce, klavye Türkçe olmalıdır. Bu şekilde çoğu hat
 * ; bir komut içerisinde birden çok komut yazmamızı sağlar. 
 
 * & işareti komutun devamına eklenirse işlem çalıştırılır, arka planda devam eder ve tek satırda çıktı verir. Örnek olarak; `sudo apt-get update &: [1] 9312` 
+
+* Sistem dilinin İngilizce yapılması çoğu hatanın önüne geçmektedir. 
 
 ## tar Arşivi Kurulum Adımları
 
