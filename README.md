@@ -138,6 +138,10 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `head -c 10 filename:` İsmi verilen dosyanın başından 10 byte okur. 
 
+`tail -n 10 filename:` İsmi verilen dosyanın son 10 satırını görüntüler. 
+
+`tail -c 10 filename:` İsmi verilen dosyanın sonundan 10 byte okur.
+
 ## Disk ve Bellek İşlemleri
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
