@@ -126,6 +126,14 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `sudo rm -rf file:` Herhangi bir dosyayı silmek için kullanılır.
 
+`cat filename:` İsmi verilen dosyanın içeriğini yazdırır. 
+
+`cat filename | wc -l:` İsmi verilen dosyanın içindeki satır sayısını verir. 
+
+`cat filename | wc -c`: İsmi verilen dosyanın içindeki karakter sayısını verir. 
+
+`cat filename | wc -w`: İsmi verilen dosyanın içindeki kelime sayısını verir. 
+
 ## Disk ve Bellek İşlemleri
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
