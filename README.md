@@ -134,6 +134,10 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `cat filename | wc -w`: İsmi verilen dosyanın içindeki kelime sayısını verir. 
 
+`head -n 10 filename:` İsmi verilen dosyanın ilk 10 satırını görüntüler. 
+
+`head -c 10 filename:` İsmi verilen dosyanın başından 10 byte okur. 
+
 ## Disk ve Bellek İşlemleri
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
