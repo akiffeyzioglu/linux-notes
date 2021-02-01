@@ -112,7 +112,7 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 # Komutlar
 
-## Dizin İşlemleri
+## Dizin ve Dosya İşlemleri
 
 `ls -la:` Çalıştırılan dizinde bulunan tüm gizli ve normal dizinleri kullanıcı grupları ve izinleri birlikte ekrana yazdırır.
 
