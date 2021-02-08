@@ -188,6 +188,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `echo deneme="test":` Ortam değişkeni oluşturur.
 
+`lshw:` Donanımları listeler. 
+
 ## Servis İşlemleri
 
 `sudo service service_name start:` Herhangi bir servisi başlatmak için kullanılır. 
