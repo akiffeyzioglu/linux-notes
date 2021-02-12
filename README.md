@@ -110,6 +110,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * [Linux Hint](https://linuxhint.com/ "Linux Hint")
 
+* [2 Day Geek](https://2daygeek.com/ "2 Day Geek")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
