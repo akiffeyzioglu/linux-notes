@@ -112,6 +112,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * [2 Day Geek](https://2daygeek.com/ "2 Day Geek")
 
+* [The Geek Diary](https://www.thegeekdiary.com/ "The Geek Diary")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
