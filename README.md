@@ -54,6 +54,35 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * Kurulum adımları tamamlandıktan sonra uygulamanın version kontrolü gerçekleştirilir. 
 
+## Linux Yetkilendirme Sistemi 
+
+```ls -l /bin/ls``` komutunun çıktısı 
+```-rwxr-xr-x 1 root root 142144 Sep  5  2019 /bin/ls```'dir.
+
+`-rwxr-xr-x:` İlk kısmın hemen başında tek bir simgeyle dosyanın türü ifade edilmektedir. Eper boş ise (yani -) normal dosyadır.
+
+`d:` Directory (dizin)
+
+`l:` Symbolic Link (Sembolik Bağ)
+
+`c:` Chracter Special Device (Karakter Aygıt)
+
+`b:` Block Special Device (Blok Aygıt)
+
+`p:` fifo
+
+`s:` socket
+
+İlk kısım dosya sahibine ait hakları, ikinci kısım aynı gruptaki kullanıcılara ait hakları, son kısım ise diğer kullanıcılara ait hakları belirtmektedir.
+
+`r:` Okuma İzni (4)
+
+`w:` Yazma İzni (2)
+
+`x:` Çalıştırma İzni (1)
+
+Örneğin: 400 modu dosya sahibi 4(yani r), grubu için 0 ve herkes için 0 hakkını vermektedir. 
+
 ## Medium Yazılarım
 
 * [Basit Terminal İşlemleri #1](https://medium.com/software-development-turkey/basit-terminal-i%CC%87%C5%9Flemleri-1-b959a88074c9 "Basit Terminal İşlemleri")
