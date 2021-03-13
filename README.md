@@ -146,6 +146,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `tail -c 10 filename:` İsmi verilen dosyanın sonundan 10 byte okur.
 
+`ln -s source_file symbolic_link:` Kaynak dosyası verilen dosyayı farklı bir dizine sembolik link olarak atar. Kaynak dosyada yapılan değişiklikler sembolik (MSDOS sistemlerde kısayol) dizinde de gerçekleşir. 
+
 ## Disk ve Bellek İşlemleri
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
@@ -199,6 +201,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 `cat /proc/cpuinfo:` İşlemcinin tüm bilgilerini yazdır  ır. 
 
 `blkid:` Hangi UUID(Universally Unique Identifier) değerinin hangi disk bölümüne ait olduğunu gösterir.  
+
+`lsof:` Ön tanımlı olarak hangi dosyanın ve port numarasının hangi process'ler ve kullanıcılar tarafından kullanıldığını listelemektedir.(Dikkat: Çıktı çok uzun.)
 
 ## Servis İşlemleri
 
