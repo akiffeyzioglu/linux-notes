@@ -12,7 +12,7 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * [Medium Yazılarım](#Medium-Yazılarım)
 
-* [GNU/Linux Yetkilendirme Sistemi](#Linux-Yetkilendirme-Sistemi)
+* [GNU/Linux Yetkilendirme Sistemi](#GNU/Linux-Yetkilendirme-Sistemi)
 
 * [Faydalı Siteler](#Faydalı-Siteler)
 
