@@ -196,7 +196,9 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `echo $?:` Son terminal oturumunda en son çalıştırılan komutun sonucunu döndürür. Çıktı "0" ise işlem başarılı demektir.
 
-`cat /proc/cpuinfo:` İşlemcinin tüm bilgilerini yazdırır. 
+`cat /proc/cpuinfo:` İşlemcinin tüm bilgilerini yazdır  ır. 
+
+`blkid:` Hangi UUID(Universally Unique Identifier) değerinin hangi disk bölümüne ait olduğunu gösterir.  
 
 ## Servis İşlemleri
 
