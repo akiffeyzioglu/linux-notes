@@ -148,6 +148,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `ln -s source_file symbolic_link:` Kaynak dosyası verilen dosyayı farklı bir dizine sembolik link olarak atar. Kaynak dosyada yapılan değişiklikler sembolik (MSDOS sistemlerde kısayol) dizinde de gerçekleşir. 
 
+`locate "name":` İsmi verilen uygulamayı, dosyayı, dizini dosya sisteminde arar.
+
 ## Disk ve Bellek İşlemleri
 
 `df -h *:` Disk ve bölümlerini gösterir. Bu şekilde de kullanılır. "df -h". 
