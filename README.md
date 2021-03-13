@@ -206,6 +206,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `lsof:` Ön tanımlı olarak hangi dosyanın ve port numarasının hangi process'ler ve kullanıcılar tarafından kullanıldığını listelemektedir.(Dikkat: Çıktı çok uzun.)
 
+`whereis "name":` İsmi verilen programın kaynak kodu ve yardım dosyalarının yerini gösterir.
+
 ## Servis İşlemleri
 
 `sudo service service_name start:` Herhangi bir servisi başlatmak için kullanılır. 
