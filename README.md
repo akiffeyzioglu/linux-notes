@@ -12,7 +12,7 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * [Medium Yazılarım](#Medium-Yazılarım)
 
-* [GNU/Linux Yetkilendirme Sistemi](#GNU/Linux-Yetkilendirme-Sistemi)
+* [GNU/Linux Yetkilendirme Sistemi](#GNU-Linux-Yetkilendirme-Sistemi)
 
 * [Faydalı Siteler](#Faydalı-Siteler)
 
@@ -56,7 +56,7 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * Kurulum adımları tamamlandıktan sonra uygulamanın version kontrolü gerçekleştirilir. 
 
-## GNU/Linux Yetkilendirme Sistemi 
+## GNU Linux Yetkilendirme Sistemi 
 
 ```ls -l /bin/ls``` komutunun çıktısı 
 ```-rwxr-xr-x 1 root root 142144 Sep  5  2019 /bin/ls```'dir.
