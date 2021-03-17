@@ -239,6 +239,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 `whereis "name":` İsmi verilen programın kaynak kodu ve yardım dosyalarının yerini gösterir.
 
+`iotop:` Programların diske okuma ve yazma oranlarının çıktısını verir. 
+
 ## Servis İşlemleri
 
 `sudo service service_name start:` Herhangi bir servisi başlatmak için kullanılır. 
