@@ -145,6 +145,8 @@ Güncelleme: İşletim sistemi Mint 20.1 "Ulyssa" - Cinnamon ile değiştirilmi�
 
 * [The Geek Diary](https://www.thegeekdiary.com/ "The Geek Diary")
 
+* [Linux Shell Tips](https://www.linuxshelltips.com "Linux Shell Tips")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
