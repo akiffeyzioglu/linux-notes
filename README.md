@@ -145,6 +145,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Shell Tips](https://www.linuxshelltips.com "Linux Shell Tips")
 
+* [Wizard Zines](https://wizardzines.com/ "Wizard Zines")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
