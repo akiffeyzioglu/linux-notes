@@ -149,6 +149,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [FOSS News](https://news.itsfoss.com/ "FOSS News")
 
+* [Linux Config](https://linuxconfig.org/ "Linux Config")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
