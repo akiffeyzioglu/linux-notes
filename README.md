@@ -147,6 +147,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Wizard Zines](https://wizardzines.com/ "Wizard Zines")
 
+* [FOSS News](https://news.itsfoss.com/ "FOSS News")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
