@@ -243,7 +243,9 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 `whereis "name":` İsmi verilen programın kaynak kodu ve yardım dosyalarının yerini gösterir.
 
-`iotop:` Programların diske okuma ve yazma oranlarının çıktısını verir. 
+`iotop:` Programların diske okuma ve yazma oranlarının çıktısını verir.
+
+`w:` Çalıştırıldığı anda sistemde bulunan kullanıcıları ve kullanıcıların işlemlerini gösterir. 
 
 ## Servis İşlemleri
 
