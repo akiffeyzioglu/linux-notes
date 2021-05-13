@@ -44,11 +44,11 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 ## tar Arşivi Kurulum Adımları
 
-* İndirilen dosya untar yapılmalıdır. `sudo tar xzvf "file-name"`. Eğer komut ile yapılmayacaksa sağ tık ile buraya çıkar denilebilir.
+* İndirilen dosya untar yapılmalıdır. `sudo tar -xf "file-name"`. Eğer komut ile yapılmayacaksa sağ tık ile buraya çıkar denilebilir.
 
-* İndirilen dizine terminalde geçiş yapıldıktan sonra `./configure` yazılır ve işlemin bitmesi beklenir. (Bu komutta hata alıyorsanız muhtemelen C Compiler kurulu değildir. Kurmak için: "sudo apt install build-essential" ardından "sudo apt-get install manpages-dev". Kurulumlar tamamlandıktan sonra işlemlere devam edebilirsiniz.)
+* İndirilen dizine terminalde geçiş yapıldıktan sonra `./configure` yazılır ve işlemin bitmesi beklenir. (Bu komutta hata alıyorsanız muhtemelen C Compiler kurulu değildir. Kurmak için: "sudo apt install build-essential -y " ardından "sudo apt install manpages-dev -y". Kurulumlar tamamlandıktan sonra işlemlere devam edebilirsiniz.)
 
-* `make` komutu çalıştırılır.
+* `sudo make altinstall` komutu çalıştırılır.
 
 * `sudo make install` çalıştırılır.
 
