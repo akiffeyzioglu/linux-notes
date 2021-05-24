@@ -251,6 +251,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 `w:` Çalıştırıldığı anda sistemde bulunan kullanıcıları ve kullanıcıların işlemlerini gösterir. 
 
+`chage -l username:` Kullanıcı adı verilen kullanıcın son parola değişiklik tarihini ve kullanıcı parolasının kullanım süresinin bitiş tarihini verir.
+
 ## Servis İşlemleri
 
 `sudo service service_name start:` Herhangi bir servisi başlatmak için kullanılır. 
