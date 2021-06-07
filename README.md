@@ -153,6 +153,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Config](https://linuxconfig.org/ "Linux Config")
 
+* [Linux Handbook](https://linuxhandbook.com/ "Linux Handbook")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
