@@ -155,6 +155,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Handbook](https://linuxhandbook.com/ "Linux Handbook")
 
+* [Linux Today](https://www.linuxtoday.com/ "Linux Today")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
