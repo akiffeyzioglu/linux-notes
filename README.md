@@ -157,6 +157,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Today](https://www.linuxtoday.com/ "Linux Today")
 
+* [Subnet Sheet](https://www.aelius.com/njh/subnet_sheet.html "Subnet Sheet")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
