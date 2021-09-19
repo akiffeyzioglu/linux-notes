@@ -159,6 +159,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Subnet Sheet](https://www.aelius.com/njh/subnet_sheet.html "Subnet Sheet")
 
+* [Linux Tech Lab](https://linuxtechlab.com/ "Linux Tech Lab") 
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
