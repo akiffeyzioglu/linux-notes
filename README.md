@@ -161,6 +161,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Tech Lab](https://linuxtechlab.com/ "Linux Tech Lab") 
 
+* [Computing for Geeks](https://computingforgeeks.com/ "Computing for Geeks")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
