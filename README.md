@@ -89,6 +89,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Dosya Sistemi Hiyerarşisi](https://medium.com/@akiffeyzioglu/linux-dosya-sistemi-hiyera%C5%9Fisi-115bd9bb607d "Linux Dosya Sistemi Hiyerarşisi")
 
+* [Windows'da Docker Desktop Olmadan Docker'ı Nasıl Kullanırız?](https://medium.com/software-development-turkey/windowsda-docker-desktop-olmadan-docker-kullanmak-4d1e663dee4f "Windows'da Docker Desktop Olmadan Docker'ı Nasıl Kullanırız?") 
+
 ## Faydalı Siteler
 
 * [Man7](https://man7.org/ "Man7") 
