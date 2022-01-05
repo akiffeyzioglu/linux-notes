@@ -288,3 +288,5 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 [`cat /dev/null > ~/.bash_history && history -c && exit:`](https://belge.pardus.org.tr/pages/viewpage.action?pageId=10028408 "Uçbirim Geçmişini Silmek") "history -c" komutunu kullandığınız zaman terminal geçmişini siler fakat terminali kapatıp açtığınızda geçmiş geri gelir. Bu komut ile tüm geçmiş silinir. 
 
 `passwd:` Giriş yapılan kullanıcın root parolasını değiştirir. 
+
+`pidof "program-name":` İsmi verilen programın pid numaralarını gösterir.
