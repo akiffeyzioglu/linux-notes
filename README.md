@@ -165,6 +165,8 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Computing for Geeks](https://computingforgeeks.com/ "Computing for Geeks")
 
+* [Linux Config](https://linuxconfig.org/ "Linux Config")
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
