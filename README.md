@@ -167,6 +167,10 @@ Bu repository GNU/Linux kullanmayı öğrenirken aldığım notları içermekted
 
 * [Linux Config](https://linuxconfig.org/ "Linux Config")
 
+* [LinuxBuz](https://linuxbuz.com/ "LinuxBuz")
+
+* [LZone CS](https://lzone.de/ "LZone CS") 
+
 # Komutlar
 
 ## Dizin ve Dosya İşlemleri
